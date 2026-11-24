@@ -1,16 +1,35 @@
-# film_app
+# Film App
 
-FilmApp
+Flutter app with a movie list and detail page.
+
+## Features
+
+- Movie list screen (main.dart) showing movies with name, image and price
+- Movie detail page (DetaySayfa.dart)
+- `Filmler` model holding movie id, name, image path and price
+
+## Tech
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
